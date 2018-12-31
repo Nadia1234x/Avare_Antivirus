@@ -1,0 +1,81 @@
+from Tkinter import *
+import tkFileDialog as filedialog
+import tkFont 
+
+class Intrusion_detection(Tk):
+    def __init__(self, *args, **kwargs): #Things run in the init method immediately
+        Tk.__init__(self, *args, **kwargs)
+    
+#
+    
+        #main window
+        window = Tk()
+        window.geometry("800x500")
+        window.title("Intrusion Detection - Pink Panther!")
+        window.configure(background = "Blue")
+        
+        frame = LoginPage(window, self)
+        self.frames[LoginPage] = frame
+        frame.grid(row=0, column = 0, sticky = "nsew")
+        self.show_frame(LoginPage)
+    
+    def show_frame(self, window):
+        frame = self.frames[window]
+        frame.tkraise()
+
+class LoginPage(window):
+    def __init__(self, parent, controller):
+        Frame.__init__(self, parent)      
+        c = Checkbutton(window, text="Are you the admin?")
+        c.configure(background = "Blue", fg = 'White')
+        c.grid(column = 4)
+        
+        
+        file_path = StringVar()
+        add_path_label = Label(window, text="Add path: ", fg = 'White')
+        entry_path = Entry(window, textvariable = file_path)
+        entry_path.grid(row = 8, column = 6)
+        add_path_label.grid(row = 5, column = 5)
+        add_path_label.configure(background = "Blue")
+        label_or = Label(window, text="or", fg = 'White')
+        label_or.grid(row = 9, column = 6)
+        label_or.configure(background = "Blue")
+        
+        def filePath(event):
+            print file_path.get()
+         
+        
+        def open_file(event):
+            fileName = filedialog.askopenfilename()
+            print fileName
+        
+        button_add_file = Button(window, text = "Browse")
+        button_add_file.bind("<Button-1>", open_file)
+        button_add_file.grid(row = 10, column = 6)
+        
+        button_add_path = Button(window, text = "add path")
+        button_add_path.bind("<Button-1>", filePath)
+        button_add_path.grid(row = 8, column = 7)
+        button_add_path.configure(background = "SteelBlue1")
+        
+        
+        #Keeps the window running until closed
+app = Intrusion_detection()
+app.mainloop()
+
+#--------------------------------------------------------------------
+#dynamic label:
+#label_1 = Label(top_frame, text="label_1", bg = "red", fg="white")
+#label_1.pack(side=LEFT)
+
+#invisible containers
+#top frame
+#top_frame = Frame(window)
+#pack means pack in the first place you can
+#top_frame.pack()
+#bottom frame
+#bottom_frame = Frame(window)
+#bottom_frame.pack(side = BOTTOM)
+
+#def__init__(self, master) gets called automatically when you create an object
+#master means the root or main window. 

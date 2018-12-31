@@ -1,0 +1,9 @@
+/Users/nadianoormohamed/Desktop/Year 3/UX/UX_coursework1.docx
+/etc/passwd
+/etc/group
+/etc/profile
+/etc/bashrc
+/Users/nadianoormohamed/.profile
+/Users/nadianoormohamed/.bash_profile
+/etc/group
+/Users/nadianoormohamed/.bash_profile
