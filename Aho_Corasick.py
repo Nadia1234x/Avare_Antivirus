@@ -1,6 +1,8 @@
 from collections import deque
 import time
-import pymongo 
+import pymongo
+import sys
+import os.path
 from pprint import pprint
 
 
@@ -13,36 +15,36 @@ concatenated_string = ""
 client = pymongo.MongoClient("mongodb://localhost:27017/")
 database = client["HIDS"]
 collection = database["virus_signatures"]
-            
+
 def build_FSM():
     print "Starting Virus Detection..."
     global output_function
-    output_function = (32 * 100001) * [0] 
+    output_function = (32 * 100001) * [0]
     FSM = [[-1 for x in range(16)] for y in range(32 * 110000)] #sort this out!!
 
-    
+
     count = 0.0
     for word in collection.find({},{ "_id": 0, "name": 0}):
         count = count + 1.0
-        percentage_complete = (count / 100000.0) * 100
+        percentage_complete = (count / 99000.0) * 100
         print percentage_complete, "% complete"
         word = word["signature"]
         word_char_list = list(word)
-        current_state = 0 
-        
+        current_state = 0
+
         for character in word_char_list:
-            alphabet_num = convert_alphaChar_to_int(character)                         
+            alphabet_num = convert_alphaChar_to_int(character)
 
             if(FSM[current_state][alphabet_num] == -1):
-                global number_of_states 
+                global number_of_states
                 number_of_states = number_of_states + 1
                 FSM[current_state][alphabet_num] = number_of_states
                 current_state = number_of_states
             else:
                 current_state = FSM[current_state][alphabet_num]
-                    
+
     #for all character which do not have a transition from state 0
-    #set the transtion to 0. 
+    #set the transtion to 0.
         output_function.insert(current_state, word)
     for alphabet in range(16):
         if(FSM[0][alphabet] == -1):
@@ -54,7 +56,7 @@ def build_FSM():
 def failure_function_construction(FSM):
     #Each state except 0 has a f(state)
     global failure
-    failure = [0] * number_of_states #sort out the 40 
+    failure = [0] * number_of_states #sort out the 40
     queue = deque()
     #All states with a depth of 1 is 0 in the failure function
     for alphabet in range(16):
@@ -62,7 +64,7 @@ def failure_function_construction(FSM):
             index = FSM[0][alphabet]
             failure.insert(index, 0)
             queue.append(index)
-            
+
     current_state = queue.popleft()
     #While the queue does not become empty
     while(queue):
@@ -84,13 +86,23 @@ def go_to_next_state(current_state, character):
     return FSM[current_state][character]
 
 #sets up       
-def check_file(file_name):    
+def check_file(file_name):
+
     #The file that needs to be checked
     global concatenated_string
     concatenated_string = ""
     file2 = open(file_name, "r")
-    
-    
+
+    try:
+        #clears the file
+        #open("results_file.txt", "w").close()
+        #Opens the file
+        #Result for output result text box
+        result_file = open("results_file.txt", "a")
+        #Infected file names for listbox
+        result_file2 = open("infected_files.txt", "a")
+    except:
+        print "cant open *****"
     for line in file2:
         word_list = line.split(" ")   
         for word in word_list:
@@ -107,10 +119,26 @@ def check_file(file_name):
                 if(output_function[current_state] != 0): 
                     signature = output_function[current_state]
                     output = database.virus_signatures.find( { "signature":  str(signature)})
+                    #put into method
                     for value in output:  
                         virus_name = str(value["name"])
-                        print "found:", virus_name
-                        concatenated_string = concatenated_string + virus_name + ";"
+                        print "found:" + virus_name
+                        result_file.write("file: " + str(file_name) + "\n")
+                        result_file.flush()
+                        result_file2.write(str(file_name) + "\n")
+                        result_file.write("found:" + str(virus_name) + "\n")
+                        result_file.flush()
+                        result_file.write("------ \n")
+                        result_file.flush()
+
+                        concatenated_string = concatenated_string + virus_name + ""
+                        print "cs " + concatenated_string
+                        return concatenated_string
+
+
+
+    result_file.close()
+    result_file2.close()
                   
   
 def convert_alphaChar_to_int(char):
@@ -122,17 +150,32 @@ def convert_alphaChar_to_int(char):
 
 FSM = []
 def initialise():
-    start = time.time()
     global FSM
-    FSM = build_FSM()    
+    FSM = build_FSM()
     failure_function_construction(FSM)
 
-def main(file): 
-    check_file(file)
-    return concatenated_string
+
+def main(path):
+    start = time.time()
+    check_file(path)
     end = time.time()
     print(end - start)
-  
 
+#For statistics
 
+# def main(path):
+#     count = 0
+#     for root, dirs, files in os.walk(path, topdown=False):
+#         start = time.time()
+#         for file in files:
+#             file = os.path.join(root, file)
+#             count = count + 1
+#             check_file(file)
+#             if(count == 20):
+#                 end = time.time()
+#                 print(end - start)
+#                 sys.exit()
+#                 #return concatenated_string
 
+# initialise()
+# main("/home/nadia/Desktop/")
