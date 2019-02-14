@@ -6,14 +6,24 @@ import time
 import file_integrity_check
 from tkMessageBox import showinfo, showerror
 import os
+import Aho_Corasick
 from multiprocessing.managers import State
 import Aho_Corasick
 
 count = 0
+
+
+def Select_from_listbox(event):
+    global value
+    value = listbox.get(ANCHOR)
+    print value
+
 def raise_frame(frame):
     frame.tkraise()
 
+
 def save_login_details(event):
+    global username1
     username1 = username.get()
     password1 = password.get()
     response = check_login_details.validate_credentials(str(username1), str(password1))
@@ -25,8 +35,14 @@ def hide(event):
     event.widget.pack_forget()
 
 def open_file_browser(event):
-    file_browser = tkFileDialog.askopenfile(mode = 'r',  initialdir = "/",title = "Select file",filetypes = (("jpeg files","*.jpg"),("all files","*.*")))
-    print file_browser
+    file_path = tkFileDialog.askopenfile(mode = 'r',  initialdir = "/",title = "Select file",filetypes = (("jpeg files","*.jpg"),("all files","*.*")))
+    file_path = str(file_path).split(",")
+    global file_path
+    file_path =  file_path[0]
+    global file_path
+    file_path = file_path.split(" ")
+    global file_path
+    file_path =  file_path[2]
 
 def register_new_user(event):
     username = new_username.get()
@@ -51,16 +67,29 @@ def show_password():
         reg_password_entry_path.config(show = '*')
         re_reg_password_entry_path.config(show = '*')
 
+def delete_virus():
+    print "filename: ", value
+    file_name = value
+    print file_name
+    Aho_Corasick.main(file_name, "delete")
+
+
 def open_program():
+    create_window()
+    time.sleep(10)
     global count
     count = count + 1
-    output.insert(END, "Scan in progress please wait... \n")
+    output.insert(END, "\n Scan in progress please wait... \n")
+    output.update_idletasks()
     time.sleep(2)
+
+    print type(file_path)
+    print "file path: ", file_path
     if(count == 1):
         file_integrity_check.initialise()
 
-
-    file_integrity_check.main("/home/nadia/Desktop/Third_Year_Project/", "Nadia23")
+    #may want to put some of this in a new method
+    file_integrity_check.main(file_path, "Nadia23")
     output.insert(END, "Scan finished \n")
     output.insert(END, "Found: \n")
     file = open("results_file.txt", "r")
@@ -76,17 +105,114 @@ def open_program():
     #if infected files are found give option to delete of quarantine the files.
     any_files_infected = os.stat("infected_files.txt").st_size == 0
     if(any_files_infected == False):
-        quarantine = Button(f4, text = 'quarantine')
+        quarantine = Button(f4, text = 'quarantine', command = create_window())
         quarantine.place(relx = 0.62, rely = 0.42)
-        delete_virus = Button(f4, text = 'Delete virus')
-        delete_virus.place(relx = 0.52, rely = 0.42)
 
+
+def create_window():
+    window2 = Toplevel(window)
+    window2.geometry("800x300")
+    # open_file = Button(window2, text = 'open file')
+    # open_file.bind("<Button-1>", open_file_browser)
+    # open_file.place(relx = 0.001, rely = 0.02)
+    open_file = Button(window2, text = 'Select File or Directory to Scan')
+    open_file.bind("<Button-1>", open_file_browser)
+    open_file.place(relx = 0.36, rely = 0.20)
+    run = Button(window2, text = 'Run Virus Scan', command = open_program)
+    run.bind("<Button-1>")
+    run.place(relx = 0.42, rely = 0.40)
+
+
+
+
+def create_configuration_window():
+    config_window = Toplevel(window)
+    config_window.title("Configuration")
+    config_window.geometry("800x500")
+    config_window.configure(background = 'white')
+
+
+        #==== Configuration page
+
+    deep_scan = BooleanVar()
+    medium_scan = BooleanVar()
+    shallow_scan = BooleanVar()
+    email_results = BooleanVar()
+    frequency = StringVar()
+
+    config_label = Label(config_window, text = 'Configuration')
+    config_label.config(background = 'White', font =('Courier', 30), fg = 'black')
+    config_label.place(relx = 0.01, rely = 0.01)
+
+    day_choice = {'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Everyday'}
+    day = StringVar(config_window)
+    #default
+    day.set('Everyday')
+    scheduledDay = OptionMenu(config_window, day, *day_choice)
+    scheduledDay.place(relx = 0.01, rely = 0.20)
+
+
+    time_choice = ('')
+    time = StringVar()
+    time.set('00:00')
+    scheduledTime = OptionMenu(config_window, time, time_choice)
+    scheduledTime.place(relx = 0.16, rely = 0.20)
+
+    frequency_choice = {'Every week', 'Every fortnight'}
+    frequency.set('Every Week')
+    scheduledFrequency = OptionMenu(config_window, frequency, *frequency_choice)
+    scheduledFrequency.place(relx = 0.31, rely = 0.20)
+
+    scanType = Label(config_window, text = 'Scan Type: The scan type is relating to the quality of scan, time: deep > medium > shallow')
+    scanType.configure(background = 'white', fg = 'blue')
+    scanType.place(relx = 0.01, rely = 0.31)
+
+    checkbutton_scanType_deep = Checkbutton(config_window, text = "Deep", variable = deep_scan)
+    checkbutton_scanType_deep.configure(background = 'white', fg = 'black')
+    checkbutton_scanType_deep.place(relx= 0.01, rely= 0.36)
+
+
+    checkbutton_scanType_medium = Checkbutton(config_window, text = 'medium', variable = medium_scan)
+    checkbutton_scanType_medium.configure(background = 'white', fg = 'black')
+    checkbutton_scanType_medium.place(relx= 0.16, rely= 0.36)
+
+
+    checkbutton_scanType_shallow = Checkbutton(config_window, text = 'shallow', variable = shallow_scan)
+    checkbutton_scanType_shallow.configure(background = 'white', fg = 'black')
+    checkbutton_scanType_shallow.place(relx= 0.31, rely = 0.36)
+
+
+    checkbutton_email = Checkbutton(config_window, text = 'Email scan results', variable = email_results)
+    checkbutton_email.place(relx = 0.01, rely = 0.46)
+    #checkbutton_email.configure(background = 'black', fg = 'white')
+
+    virus_database_update_label = Label(config_window, text = 'Virus Database update: ')
+    virus_database_update_label.configure(background = 'white', fg = 'blue')
+    virus_database_update_label.place(relx = 0.01, rely = 0.56)
+
+    manual_update = Button(config_window, text = 'Manual Update')
+    manual_update.configure(background = 'white', fg = 'black')
+    manual_update.place(relx = 0.01, rely = 0.61)
+    #need to place and create variables for the checkbuttons.S
+
+    or_label = Label(config_window, text = 'or')
+    or_label.configure(background = 'white', fg = 'black')
+    or_label.place(relx = 0.20, rely = 0.61)
+
+    checkbutton_automatic_db_update = Checkbutton(config_window, text = 'Automatic Update')
+    checkbutton_automatic_db_update.configure(background = 'white', fg = 'black')
+    checkbutton_automatic_db_update.place(relx = 0.26, rely = 0.61)
+
+    #===
 
 
 
 window = Tk()
 window.geometry("1100x700")
 window.title("Aware Antivirus")
+file_path = StringVar()
+
+
 
 f3 = Frame(window)
 f3.configure(background = "Black")
@@ -104,10 +230,21 @@ f4 = Frame(window)
 f4.configure(background = "Black")
 f4.grid_propagate(0)
 
+f5 = Frame(window)
+f5.configure(background = "Black")
+f5.grid_propagate(0)
+
+f6 = Frame(window)
+f6.configure(background = "Black")
+f6.grid_propagate(0)
+
+
+
+
 
 window.configure(background = "Black")
 
-for frame in (f1, f2, f3, f4):
+for frame in (f1, f2, f3, f4, f5, f6):
     frame.grid(row = 1000, column = 1000, sticky = 'news')
 
 
@@ -153,7 +290,7 @@ select_login.place(relx=0.35, rely = 0.64)
 select_register = Button(f3, text = 'Register', command= lambda:raise_frame(f2))
 select_register.place(relx=0.43, rely = 0.64)
 
-
+value = StringVar()
 variable = StringVar()
 username = StringVar()
 password = StringVar()
@@ -161,9 +298,8 @@ new_username = StringVar()
 new_password = StringVar()
 re_new_password = StringVar()
 show_pass = BooleanVar()
-
-logged_in_as_label = Label(f4, text = "logged in as: " + username.get());
-logged_in_as_label.place(relx = 0.63, rely = 0.01 )
+username1 = StringVar()
+file_path = StringVar()
 
 username_label = Label(f1, text = "Username: ")
 username_label.configure(background = "Black", fg = "white")
@@ -229,18 +365,83 @@ open_file.bind("<Button-1>", open_file_browser)
 open_file.place(relx = 0.001, rely = 0.42)
 #dropdown = OptionMenu(f4, variable, "file1", "file2", "file3")
 #dropdown.configure(background = "Black")
-#dropdown.grid(column = 60, row = 3)
+#dropdown.grid(column = 60, ro_w = 3)
 
 run = Button(f4, text = 'Run Virus Scan', command = open_program)
 run.bind("<Button-1>")
 run.place(relx = 0.08, rely = 0.42)
 
 listbox = Listbox(f4, width = 65, height = 40)
+listbox.bind('<ButtonRelease-1>', Select_from_listbox)
 listbox.place(relx = 0.52, rely = 0.47)
 
+delete_virus = Button(f4, text = 'Delete virus', command = delete_virus)
+delete_virus.bind("<Button-1>")
+delete_virus.place(relx = 0.52, rely = 0.42)
+
+
+logged_in_as_label = Label(f4, text = "logged in as: " + username.get());
+print password.get()
+logged_in_as_label.place(relx = 0.63, rely = 0.01 )
+
+
+configuration_button = Button(f4, text = 'Configuration', command = create_configuration_window)
+configuration_button.bind('<Button-1>')
+configuration_button.configure(font =('Courier'))
+configuration_button.place(relx = 0.01 , rely = 0.01)
+
+#=====: Front option page
+logo5 = PhotoImage(file="Aware_logo3+.png")
+logo5_label = Label(f6, image=logo5)
+logo5_label.configure(background = 'black')
+logo5_label.image  = logo5
+logo5_label.place(relx=0.50, rely=0.10, anchor=CENTER)
+
+logo6 = PhotoImage(file="antivirus_logo.png")
+logo6_label = Label(f6, image=logo6)
+logo6_label.configure(background = 'black')
+logo6_label.image  = logo6
+logo6_label.place(relx=0.50, rely=0.23, anchor=CENTER)
+
+settings = PhotoImage(file = 'settings.png')
+settings_logo = Label(f6, image = settings)
+settings_logo.configure(background = 'black')
+settings_logo.image = settings
+settings_logo.place(relx = 0.10, rely = 0.60)
+
+quarantine_image = PhotoImage(file = 'rsz_quarantine_file.png')
+quarantine = Label(f6, image = quarantine_image)
+quarantine.configure(background = 'black')
+quarantine.image = quarantine_image
+quarantine.place(relx = 0.33, rely = 0.60)
+
+quarantine_button = Button(f6, text = 'Quarantine Logs')
+quarantine_button.bind('<Button-1>')
+quarantine_button.place(relx = 0.32, rely = 0.8)
+
+file_scan_image = PhotoImage(file = 'rsz_file_scan.png')
+file_scan = Label(f6, image = file_scan_image)
+file_scan.configure(background = 'black')
+file_scan.image = file_scan_image
+file_scan.place(relx = 0.56, rely = 0.60)
+
+file_scan_button = Button(f6, text = 'Scan Files', command = create_window)
+file_scan_button.bind('<Button-1>')
+file_scan_button.place(relx = 0.561, rely = 0.80 )
+
+logs_image = PhotoImage(file = 'rsz_settings_logo.png')
+logs = Label(f6, image = logs_image)
+logs.configure(background = 'black')
+logs.image = logs_image
+logs.place(relx = 0.78, rely = 0.60)
+
+file_scan_button = Button(f6, text = 'Settings', command = create_configuration_window)
+file_scan_button.configure(background = 'Black', fg = 'light Blue')
+file_scan_button.bind('<Button-1>')
+file_scan_button.place(relx = 0.795, rely = 0.80 )
 
 
 
 print username.get()
-raise_frame(f3)
+raise_frame(f6)
 window.mainloop()

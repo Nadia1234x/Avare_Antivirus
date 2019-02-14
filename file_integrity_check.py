@@ -18,9 +18,11 @@ def is_file_or_dir(path):
         return IS_DIR
     
 def file_integrity(salt, hashed_password, username, file, db, DK):
+
         checksum_new = hash.generate_file_checksum(file, DK)
         print "new checksum: " + str(checksum_new)
-        query = "SELECT checksum FROM " + username + "_file_checksum WHERE ID = '" + file + "';" 
+        print "fofsfn: ", file
+        query = "SELECT checksum FROM " + username + "_file_checksum WHERE ID = '" + file + "';"
         checksum_old = database.query_select(query, db)
         print "old checksum: " +  str(checksum_old)
         print "P " + file
@@ -29,7 +31,7 @@ def file_integrity(salt, hashed_password, username, file, db, DK):
                 print file
                 print "file changed: suspicious"
                 #check file for virus
-                response = Aho_Corasick.main(file)
+                response = Aho_Corasick.main(file, "none")
                 if(response != ""):
                     print response
                     #Need to quarantine or deleted the file
@@ -50,7 +52,7 @@ def file_integrity(salt, hashed_password, username, file, db, DK):
 
 
 def main(path, username):
-    
+    path = path.replace("'", "")
     query1 = "SELECT password FROM login WHERE username = '" + username + "';"
     query2 = "SELECT salt FROM login WHERE username = '" + username + "';"
     db = database.initialise_db("root", "Narnia0102*")
@@ -60,7 +62,9 @@ def main(path, username):
     count = 0
 
     response = is_file_or_dir(path)
+    print response
     if(response == IS_FILE):
+        print "is file"
         file_integrity(salt, hashed_password, username, path, db, DK)
     if(response == IS_DIR):
         for root, dirs, files in os.walk(path, topdown=False):
@@ -69,7 +73,7 @@ def main(path, username):
                 # count = count + 1
                 # if(count == 10):
                 #     sys.exit()
-                file_integrity(salt, hashed_password, username, file, db, DK)
+                file_integrity(salt, hashed_password, username, path, db, DK)
 
 def initialise():
     Aho_Corasick.initialise()

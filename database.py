@@ -18,13 +18,13 @@ def initialise_db(username, password):
     ,host='localhost',database='HIDS')
     return hids_database
 
-#Adds file into the db for the first time. 
-def track_new_file_initialisation(file_hash, path_hash, db):
-    ID = path_hash
-    checksum = file_hash 
-    sql_query = "INSERT INTO file_checksum VALUES('" + ID + "', '" + checksum + "');"
-    query(sql_query, db)
-    return hash_value
+# #Adds file into the db for the first time.
+# def track_new_file_initialisation(file_hash, path_hash, db):
+#     ID = path_hash
+#     checksum = file_hash
+#     sql_query = "INSERT INTO file_checksum VALUES('" + ID + "', '" + checksum + "');"
+#     query(sql_query, db)
+#     return hash_value
     
   
 def query(sql_query, db):
@@ -40,4 +40,3 @@ def query_select(sql_query, db):
     return cursor.fetchall()
 
 
-    

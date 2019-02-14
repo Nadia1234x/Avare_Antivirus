@@ -16,16 +16,33 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 database = client["HIDS"]
 collection = database["virus_signatures"]
 
+def delete_virus(filename, signature):
+    with open(filename, "rt") as file:
+        file_contents = file.read()
+
+    file_contents = file_contents.replace(signature, "<Removed>")
+
+    with open(filename, 'w') as file:
+        file.write(file_contents)
+
+
+
+
+
 def build_FSM():
     print "Starting Virus Detection..."
     global output_function
-    output_function = (32 * 100001) * [0]
-    FSM = [[-1 for x in range(16)] for y in range(32 * 110000)] #sort this out!!
+    output_function = (32 * 1200) * [0]
+    FSM = [[-1 for x in range(16)] for y in range(32 * 1200)] #sort this out!!
 
+    #for developmement purposes only building a trie with 1000 signatures
+    count = 0
+    count_q = 0
 
-    count = 0.0
-    for word in collection.find({},{ "_id": 0, "name": 0}):
+    for word in collection.find({},{ "_id": 0, "name": 0}).limit(1000):
         count = count + 1.0
+        count_q = count_q + 1
+        print count
         percentage_complete = (count / 99000.0) * 100
         print percentage_complete, "% complete"
         word = word["signature"]
@@ -86,12 +103,12 @@ def go_to_next_state(current_state, character):
     return FSM[current_state][character]
 
 #sets up       
-def check_file(file_name):
+def check_file(file_name, mode):
 
     #The file that needs to be checked
     global concatenated_string
     concatenated_string = ""
-    file2 = open(file_name, "r")
+    file2 = open(file_name.rstrip(), "r")
 
     try:
         #clears the file
@@ -130,10 +147,11 @@ def check_file(file_name):
                         result_file.flush()
                         result_file.write("------ \n")
                         result_file.flush()
-
+                        if(mode == "delete"):
+                            delete_virus(file_name.rstrip(), signature)
                         concatenated_string = concatenated_string + virus_name + ""
                         print "cs " + concatenated_string
-                        return concatenated_string
+    return concatenated_string
 
 
 
@@ -155,9 +173,9 @@ def initialise():
     failure_function_construction(FSM)
 
 
-def main(path):
+def main(path, mode):
     start = time.time()
-    check_file(path)
+    check_file(path, mode)
     end = time.time()
     print(end - start)
 

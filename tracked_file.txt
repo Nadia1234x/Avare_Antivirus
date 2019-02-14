@@ -1,2 +1,2 @@
-hello my name is nadia b525084dc3b08e931586ccf73b01ac97 hi my name is nadia
-I am a student as the fb38ef082ed4f34e468f3d327e2c4b98 university of manchester
+This is a test file to check the <Removed> functionality of the Aho Corasick Algorithm
+diusbdsodbdsodsoididoidodsoi <Removed> gdngnnggddrthsrrsrsrrwhtddhrhd

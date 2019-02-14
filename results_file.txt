@@ -158,3 +158,330 @@ file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
 found:Html.Exploit.CVE_2016_0109-1
 
 ------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Html.Exploit.CVE_2016_0106-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+
+found:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+
+found:Html.Exploit.CVE_2016_0106-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.py
+
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/check_login_details.py
+
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+found:Unix.Malware.Agent-1393496
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/tracked_file.txt
+
+found:Unix.Malware.Agent-1393496
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/test_ahocorasick_virus_signature.py
+found:Rtf.Exploit.CVE_2016_0092-1
+
+------ 

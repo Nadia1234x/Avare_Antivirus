@@ -8,7 +8,7 @@ def generate_password_hash(password, salt):
 
 #Using HMAC
 def generate_file_checksum(file, DK):
-    
+    print 'type is: ', type(file)
     digest = hmac.new(DK, ' ', hashlib.sha256)
     try:
         with open(file, 'r') as f: 
