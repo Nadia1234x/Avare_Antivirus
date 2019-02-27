@@ -123,7 +123,7 @@ def broop(file_to_check):
                   
                   
 
-#methods converts alphabet to 0,...,25    
+#methods converts alphabet to 0,...,25    9d33ba6b71a16b08d5a16dda2365667d
 def convert_alphaChar_to_int(char):
     number = ord(char) - 97
     return number

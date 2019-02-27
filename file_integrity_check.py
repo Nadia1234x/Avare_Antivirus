@@ -32,8 +32,10 @@ def file_integrity(salt, hashed_password, username, file, db, DK):
                 print "file changed: suspicious"
                 #check file for virus
                 response = Aho_Corasick.main(file, "none")
-                if(response != ""):
-                    print response
+                print 'response !!!', response
+                if(response != None):
+                    print "xxx", response
+                    return response
                     #Need to quarantine or deleted the file
                 elif(response == ""):
                     print 'new checksum',  checksum_new
@@ -44,10 +46,13 @@ def file_integrity(salt, hashed_password, username, file, db, DK):
                     query = "SELECT checksum FROM Nadia23_file_checksum WHERE ID = '" +  file + "';"
                     response  = database.query_select(query, db)
                     print 'The checksum in the database is: ' , response
+                    return 0
         except:
             print 'The file does not exist'
             track_new_file.add_file_for_tracking(file)
             print 'The file has been added to the database'
+
+        return 0
 
 
 
@@ -59,23 +64,26 @@ def main(path, username):
     hashed_password = database.query_select(query1, db)
     salt = database.query_select(query2, db)
     DK = hash.derive_secret_key(str(hashed_password), str(salt))
-    count = 0
-
-    response = is_file_or_dir(path)
-    print response
-    if(response == IS_FILE):
-        print "is file"
-        file_integrity(salt, hashed_password, username, path, db, DK)
-    if(response == IS_DIR):
-        for root, dirs, files in os.walk(path, topdown=False):
-            for file in files:
-                file = os.path.join(root, file)
-                # count = count + 1
-                # if(count == 10):
-                #     sys.exit()
-                file_integrity(salt, hashed_password, username, path, db, DK)
+    # count = 0
+    #
+    # response = is_file_or_dir(path)
+    # print response
+    # if(response == IS_FILE):
+    #     print "is file"
+    #     file_integrity(salt, hashed_password, username, path, db, DK)
+    # if(response == IS_DIR):
+    #     for root, dirs, files in os.walk(path, topdown=False):
+    #         for file in files:
+    #             file = os.path.join(root, file)
+    #             # count = count + 1
+    #             # if(count == 10):
+    #             #     sys.exit()
+    response = file_integrity(salt, hashed_password, username, path, db, DK)
+    print 'res', response
+    return response
 
 def initialise():
+    print "initialising"
     Aho_Corasick.initialise()
 
 

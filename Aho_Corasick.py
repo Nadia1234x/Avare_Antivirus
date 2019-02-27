@@ -106,6 +106,7 @@ def go_to_next_state(current_state, character):
 def check_file(file_name, mode):
 
     #The file that needs to be checked
+    global viruses_found
     global concatenated_string
     concatenated_string = ""
     file2 = open(file_name.rstrip(), "r")
@@ -140,6 +141,7 @@ def check_file(file_name, mode):
                     for value in output:  
                         virus_name = str(value["name"])
                         print "found:" + virus_name
+                        viruses_found = viruses_found + 1
                         result_file.write("file: " + str(file_name) + "\n")
                         result_file.flush()
                         result_file2.write(str(file_name) + "\n")
@@ -151,7 +153,7 @@ def check_file(file_name, mode):
                             delete_virus(file_name.rstrip(), signature)
                         concatenated_string = concatenated_string + virus_name + ""
                         print "cs " + concatenated_string
-    return concatenated_string
+    return viruses_found
 
 
 
@@ -166,6 +168,7 @@ def convert_alphaChar_to_int(char):
     except:
         return "ignore"
 
+viruses_found = 0
 FSM = []
 def initialise():
     global FSM
@@ -175,7 +178,8 @@ def initialise():
 
 def main(path, mode):
     start = time.time()
-    check_file(path, mode)
+    response = check_file(path, mode)
+    return response
     end = time.time()
     print(end - start)
 

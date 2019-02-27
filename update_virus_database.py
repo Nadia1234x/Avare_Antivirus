@@ -5,20 +5,20 @@ import schedule
 import pymongo
 from datetime import date
 
-# def get_virus_file():
-#     print "doing"
-#     url = 'http://database.clamav.net/daily.cvd'
-#     request = requests.get(url)
-#     response_data =  request.content
-#     filename = "daily.cvd"
-#     file = open(filename, 'w')
-#     file.write(response_data)
-#     file.close()
-#     os.system('xxd -ps -s 512 daily.cvd|xxd -r -ps|tar -zx')
-#     os.system('chmod 764 daily.hdb')
-#     file = open("db-update.txt", "w ")
-#     today = str(date.today())
-#     file.write(today)
+def get_virus_file():
+    print "doing"
+    url = 'http://database.clamav.net/daily.cvd'
+    request = requests.get(url)
+    response_data =  request.content
+    filename = "daily.cvd"
+    file = open(filename, 'w')
+    file.write(response_data)
+    file.close()
+    os.system('xxd -ps -s 512 daily.cvd|xxd -r -ps|tar -zx')
+    os.system('chmod 764 daily.hdb')
+    file = open("db-update.txt", "w ")
+    today = str(date.today())
+    file.write(today)
 
 
 def update_database():
@@ -49,4 +49,3 @@ def update_database():
 #     schedule.run_pending()
 #     time.sleep(1)
 
-update_database()
