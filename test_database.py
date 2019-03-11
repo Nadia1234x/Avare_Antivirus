@@ -6,7 +6,7 @@ import hashlib
 class test_database(unittest.TestCase):
     def test_database_initialisation(self):
         username = 'root'
-        password = 'Narnia0102'
+        password = 'Narnia0102*'
         assert database.initialise_db(username, password) != None 
         
     def test_if_database_insertion_passes(self):
@@ -25,4 +25,3 @@ class test_database(unittest.TestCase):
         #delete row afterwards to prevent the table from getting too large
         sql_query = "DELETE FROM file_checksum WHERE ID = '" + hash_value + "';"
         database.query(sql_query, db)
-        

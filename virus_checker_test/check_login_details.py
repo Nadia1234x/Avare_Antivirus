@@ -22,5 +22,7 @@ def validate_credentials(username, input_password):
 def login_to_user_database_table(username, password):
     db = database.initialise_db(username, password)
     #hello,,f
+#<Removed>
+#<Removed><Removed><Removed><Removed>
     
     

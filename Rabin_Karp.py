@@ -67,12 +67,12 @@ database = client["HIDS"]
 collection = database["virus_signatures"]
 
 # This code is contributed by Bhavya Jain
-path = "/home/nadia/Desktop/"
+path = "/home/nadia/Desktop/Third_Year_Project/test_files"
 for root, dirs, files in os.walk(path, topdown=False):
 	for file in files:
 		file_name = os.path.join(root, file)
 		try:
-			file = open(file, "r")
+			file = open(file_name, "r")
 			print count
 			print file
 			count = count + 1
@@ -85,7 +85,7 @@ for root, dirs, files in os.walk(path, topdown=False):
 
 
 
-		if(count == 20):
+		if(count == 10):
 			end = time.time()
 			print("time elapsed: " , (end-start))
 			sys.exit()

@@ -40,3 +40,4 @@ def query_select(sql_query, db):
     return cursor.fetchall()
 
 
+
