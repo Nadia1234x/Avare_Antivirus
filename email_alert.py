@@ -1,5 +1,5 @@
 import os.path
-import mysql.connector 
+import mysql.connector
 import smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText

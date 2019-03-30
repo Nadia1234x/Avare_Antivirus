@@ -7,14 +7,14 @@ import os.path
 
 
 count = 0
-start = time.time()
+
 client = pymongo.MongoClient("mongodb://localhost:27017/")
 database = client["HIDS"]
 collection = database["virus_signatures"]
 
-def in_op():
+def in_op(path):
     # This code is contributed by Bhavya Jain
-    path = "/home/nadia/Desktop/Third_Year_Project/t_file_1000"
+    start = time.time()
     for root, dirs, files in os.walk(path, topdown=False):
         for file in files:
             file_name = os.path.join(root, file)
@@ -25,7 +25,7 @@ def in_op():
                 global count
                 count = count + 1
                 for line in file:
-                    for word in collection.find({},{ "_id": 0, "name": 0}).limit(10000):
+                    for word in collection.find({},{ "_id": 0, "name": 0}).limit(100000):
                         word = word["signature"]
                         if(word in line):
                             print True
@@ -36,9 +36,15 @@ def in_op():
 
 
 
-            if(count == 999):
-                end = time.time()
-                print("time elapsed: " , (end-start))
-                sys.exit()
 
-in_op()
+    end = time.time()
+    print count
+    print("time elapsed: " , (end-start))
+
+
+
+
+#in_op('/home/nadia/Desktop/Third_Year_Project/t_file')
+in_op('/home/nadia/Desktop/Third_Year_Project/t_files_500')
+
+

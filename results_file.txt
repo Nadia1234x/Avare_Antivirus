@@ -10470,3 +10470,1044 @@ file: /home/nadia/Desktop/Third_Year_Project/t_file_1000/lorem_ipsum= (891st cop
 found:Swf.Exploit.CVE_2016_0989-1
 
 ------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: file_to_scan_serverfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: file_to_scan_serverfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: file_to_scan_serverfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: nonefound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: nonefound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: nonefound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/virus_checker_test/test_ahocorasick_virus_signature.pyfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (6th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (4th copy).txtfound:Swf.Exploit.CVE_2016_0989-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2016_0989-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (3rd copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (5th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (another copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (another copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum=.txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (27th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (27th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (27th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (27th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (27th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Swf.Exploit.CVE_2016_0989-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Swf.Exploit.CVE_2016_0989-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (11th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Win.Exploit.CVE_2016_0134-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum=.txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum=.txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (10th copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (98th copy).txtfound:Multios.Exploit.Angler-31
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Multios.Exploit.Angler-31
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (15th copy).txtfound:Html.Exploit.CVE_2016_0107-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (26th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Multios.Exploit.Angler-31
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (26th copy).txtfound:Html.Exploit.CVE_2015_2487-2
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (19th copy).txtfound:Multios.Exploit.Angler-31
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (15th copy).txtfound:Html.Exploit.CVE_2016_0107-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (15th copy).txtfound:Html.Exploit.CVE_2016_0107-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (21st copy).txtfound:Html.Exploit.CVE_2016_0109-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (18th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (41st copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (41st copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Swf.Exploit.CVE_2016_0962-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (3rd copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_10/lorem_ipsum= (3rd copy).txtfound:Pdf.Exploit.CVE_2016_0118-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (3rd copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (134th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (3rd copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file_200/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (9th copy).txtfound:Swf.Exploit.CVE_2015_8060-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (7th copy).txtfound:Rtf.Exploit.CVE_2016_0091-1
+
+------ 
+file: /home/nadia/Desktop/Third_Year_Project/t_file/lorem_ipsum= (10th copy).txtfound:Doc.Dropper.Agent-1383199
+
+------ 
